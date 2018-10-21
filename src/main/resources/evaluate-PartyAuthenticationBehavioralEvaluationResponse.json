@@ -1,0 +1,15 @@
+{
+  "customerAuthenticationBehavioralTestReference" : "BETR7265425",
+  "customerContactAuthenticationLevel" : "level-1",
+  "authenticationBehavioralEvaluationResult" : {},
+  "authenticationBehavioralRecord" : "authenticationBehavioralRecord",
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "partyReference" : "481597263",
+  "registeredBehavioralRecord" : "4aa1-1g54g8fd-s964d54-g8d61df5",
+  "registeredBehavioralReference" : "1g54g8fds964d54g8d61df5",
+  "customerReference" : "159482637",
+  "authenticationBehavioralType" : "TYPE1",
+  "authenticationType" : "QUESTION",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "customerContactAuthenticationRecord" : {}
+}

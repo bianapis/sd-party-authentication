@@ -1,0 +1,15 @@
+{
+  "authenticationDeviceEvalautionResult" : {},
+  "issuedDeviceReference" : "IDR44",
+  "issuedDevicePropertyValue" : "{property1:value1,property2:value2}",
+  "customerContactAuthenticationLevel" : "level-1",
+  "authenticationDeviceReference" : "1g54g8fds964d54g8d61df5",
+  "customerAuthenticationDeviceTestReference" : "DTR7265425",
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "partyReference" : "481597263",
+  "customerReference" : "159482637",
+  "authenticationType" : "QUESTION",
+  "authenticationDevicePropertyValue" : "URL",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "customerContactAuthenticationRecord" : {}
+}

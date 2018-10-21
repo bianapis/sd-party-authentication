@@ -1,0 +1,15 @@
+{
+  "customerContactAuthenticationLevel" : "level-1",
+  "authenticationDocumentContent" : {},
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "customerAuthenticationDocumentTestReference" : "DTR724645",
+  "partyReference" : "481597263",
+  "documentContent" : "documentContent",
+  "authenticationDocumentComparisonResult" : "authenticationDocumentComparisonResult",
+  "authenticationDocumentReference" : "1g54g8fds964d54g8d61df5",
+  "customerReference" : "159482637",
+  "documentReference" : "1g54g8fds964d54g8d61df5",
+  "authenticationType" : "QUESTION",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "customerContactAuthenticationRecord" : {}
+}

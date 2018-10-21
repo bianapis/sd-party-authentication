@@ -1,0 +1,14 @@
+{
+  "registeredBiometricReference" : "1g54g8fds964d54g8d61df5",
+  "customerAuthenticationBiometricTestReference" : "CABTR123",
+  "customerContactAuthenticationLevel" : "level-1",
+  "customerReference" : "159482637",
+  "registeredBiometricRecord" : "4aa1-1g54g8fd-s964d54-g8d61df5",
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "partyReference" : "481597263",
+  "authenticationType" : "QUESTION",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "customerContactAuthenticationRecord" : {},
+  "authenticationBiometricType" : "FACE_SCAN",
+  "authenticationBiometricRecord" : {}
+}

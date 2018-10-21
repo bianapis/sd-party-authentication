@@ -1,0 +1,13 @@
+{
+  "customerContactAuthenticationLevel" : "level-1",
+  "customerAuthenticationQuestionTestReference" : "QTR724645",
+  "authenticationSecretQuestionValue" : "Meghan",
+  "customerReference" : "159482637",
+  "authenticationSecretQuestionTemplate" : "What's you mother's middle name?",
+  "authenticationSecretQuestionReference" : "9KFSD9FC6",
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "partyReference" : "481597263",
+  "authenticationType" : "QUESTION",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "customerContactAuthenticationRecord" : {}
+}

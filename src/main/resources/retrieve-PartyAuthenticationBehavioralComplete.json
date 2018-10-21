@@ -1,0 +1,14 @@
+{
+  "customerAuthenticationBehavioralTestReference" : "CABTR123",
+  "registeredBehavioralReference" : "1g54g8fds964d54g8d61df5",
+  "customerContactAuthenticationLevel" : "level-1",
+  "customerReference" : "159482637",
+  "authenticationBehavioralRecord" : "authenticationBehavioralRecord",
+  "authenticationBehavioralType" : "TYPE1",
+  "customerContactAuthenticationGrant" : "Level-1-activities",
+  "partyReference" : "481597263",
+  "authenticationType" : "QUESTION",
+  "customerContactAuthenticationRecordReference" : "CARR7235424",
+  "registeredBehavioralRecord" : "4aa1-1g54g8fd-s964d54-g8d61df5",
+  "customerContactAuthenticationRecord" : {}
+}
